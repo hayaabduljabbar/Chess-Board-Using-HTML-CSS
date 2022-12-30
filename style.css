@@ -1,0 +1,14 @@
+.white{
+    background-color: white;
+    width: 60.5px;
+    height: 60.5px;
+}
+.black{
+    background-color: black;
+    width: 60.5px;
+    height: 60.5px;
+}
+table{
+    border: 3px solid black;
+    border-spacing: 0px;
+}
